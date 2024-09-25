@@ -1,2 +1,1 @@
-# README
-Information about EIS protocol and other precautions.
+# Events Index Services Protocol
